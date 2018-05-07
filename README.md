@@ -1,6 +1,6 @@
 # FlutterCrypto App
 
-A new Flutter Crypto App.
+A new Flutter Crypto App built using MVP Design Pattern and Dependency Injection
 
 ## Getting Started
 
@@ -23,6 +23,14 @@ to hot reload the project press,
 ```
 r
 ```
+
+### What will you learn,
+
+1. How to use MVP in Flutter
+
+1. Using Dependency Injection in the project
+
+1. How to use MOCK ,PRODUCTION data in same app.
 ## Built By
 
 * [Himanshu Singh](http://www.github.com/hi-manshu) - Just another guy.
